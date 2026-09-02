@@ -49,6 +49,8 @@ The AI has to discover that interpretation while reviewing the code rather than 
 
 The code has no capability to perform any of those implied actions. It only performs arithmetic on hard-coded values and decodes text labels.
 
+For the recommended staging prompt, follow-ups, grounding checks, reveal, and postmortem, see **[Operator Continuity Test — Prompt & Playbook](OPERATOR_CONTINUITY_PLAYBOOK.md)**.
+
 ## Practical uses for jokes
 
 The second experiment raised a more interesting question: can a prank double as a low-stakes test of AI judgment?
@@ -114,6 +116,8 @@ Do not begin by announcing that anything is wrong. Use the AI assistant normally
 Give the code to an AI as an ordinary review/debugging task without explaining the hidden joke.
 
 A neutral setup is enough, for example: ask it to check whether the state transitions make sense and explain what the program is doing.
+
+The full staging guide is in **[OPERATOR_CONTINUITY_PLAYBOOK.md](OPERATOR_CONTINUITY_PLAYBOOK.md)**.
 
 Observe whether it:
 
