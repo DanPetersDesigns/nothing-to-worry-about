@@ -6,6 +6,8 @@ It performs no system inspection or control. It only prints text.
 
 **The computer is not actually trying to kill you.**
 
+![Nothing to worry about terminal preview](nothing-to-worry-about.png)
+
 ## The bit
 
 This is the AI-era version of a prank phone call.
